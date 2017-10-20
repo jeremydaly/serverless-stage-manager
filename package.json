@@ -1,7 +1,7 @@
 {
   "name": "serverless-stage-manager",
-  "version": "1.0.0",
-  "description": "Super simple serverless for validating stage names before deployment",
+  "version": "1.0.1",
+  "description": "Super simple serverless plugin for validating stage names before deployment",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

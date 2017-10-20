@@ -8,7 +8,7 @@ Super simple [serverless](http://www.serverless.com) plugin for validating stage
 ## Installation & Configuration
 
 Install the module using npm:
-```
+```bash
 npm install serverless-stage-manager --save
 ```
 
