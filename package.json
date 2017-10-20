@@ -1,0 +1,26 @@
+{
+  "name": "serverless-stage-manager",
+  "version": "1.0.0",
+  "description": "Super simple serverless for validating stage names before deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremydaly/serverless-stage-manager.git"
+  },
+  "keywords": [
+    "serverless",
+    "serverless-plugin",
+    "aws",
+    "nodejs",
+    "deployment"
+  ],
+  "author": "Jeremy Daly <jeremy@jeremydaly.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeremydaly/serverless-stage-manager/issues"
+  },
+  "homepage": "https://github.com/jeremydaly/serverless-stage-manager#readme"
+}
