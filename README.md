@@ -48,10 +48,10 @@ When running `serverless deploy` or `serverless deploy function`, it will check 
 # These will work
 serverless deploy -s prod
 serverless deploy -s staging
-serverless deploy functon -f funcName -s dev
+serverless deploy function -f funcName -s dev
 serverless deploy # assuming default stage is in custom.stages config
 
 # These will fail
 serverless deploy -s foo
-serverless deploy functon -f funcName -s bar
+serverless deploy function -f funcName -s bar
 ```
