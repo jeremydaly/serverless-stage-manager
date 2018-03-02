@@ -1,6 +1,6 @@
 {
   "name": "serverless-stage-manager",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Super simple serverless plugin for validating stage names before deployment",
   "main": "index.js",
   "scripts": {
